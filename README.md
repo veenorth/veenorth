@@ -5,6 +5,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original-wordmark.svg" alt="figma" width="100" height="100" /> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="figma" width="100" height="100" /> </a>
 </p>
 <!--
 **veenorth/veenorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
