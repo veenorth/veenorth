@@ -1,5 +1,10 @@
 <div id="header" align="center">
-  <img src="https://img.championat.com/i/n/x/17121497591306419826.jpg" width="250"/>
+  <img src="https://img.championat.com/i/n/x/17121497591306419826.jpg" width="300"/>
+</div>
+
+<div id="badges">
+  <a href="https://vk.com/veenorth">
+    <img src="https://img.shields.io/badge/-VK?logo=VK&logoColor=blue&label=%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&labelColor=white&color=blue" alt="LinkedIn Badge"/>
 </div>
 
 <h3 align="left">programming languages:</h3>
