@@ -1,8 +1,5 @@
-## programming:
-
-
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/FrOFGLdKziEAAAAd/jinwocat.gif">
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">programming languages:</h3>
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original-wordmark.svg" alt="figma" width="100" height="100" /> </a>
 </p>
