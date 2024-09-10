@@ -1,28 +1,20 @@
 <div id="header" align="center">
-  <img src="https://img.championat.com/i/n/x/17121497591306419826.jpg" width="300"/>
+  <img src="https://img.championat.com/i/n/x/17121497591306419826.jpg" width="400"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/veenorth">
     <img src="https://img.shields.io/badge/-VK?logo=VK&logoColor=blue&label=%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&labelColor=white&color=blue" alt="LinkedIn Badge"/>
-</div>
+  </div>
 
-<h3 align="left">programming languages:</h3>
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original-wordmark.svg" alt="figma" width="100" height="100" /> </a>
-</p>
+  <div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=veenorth&style=flat-square&color=blue" alt=""/>
+  </div>
 
-<!--
-**veenorth/veenorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Languages and Tools:
+  <div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
+  </div>
