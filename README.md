@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/FrOFGLdKziEAAAAd/jinwocat.gif" width="100"/>
+  <img src="https://img.championat.com/i/n/x/17121497591306419826.jpg" width="100"/>
 </div>
 
 <h3 align="left">programming languages:</h3>
