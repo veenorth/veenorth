@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img align="right" alt="Coding" width="400" src="[add your link 
-here](https://tenor.com/ru/view/solo-leveling-gif-19054687)">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/ru/view/solo-leveling-gif-19054687]">
 <!--
 **veenorth/veenorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
